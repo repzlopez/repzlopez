@@ -34,41 +34,19 @@
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35"> Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-&nbsp;or visit my website 🌐 [repz.work](https://www.repz.work)
+<a href="https://linkedin.com/in/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://facebook.com/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;
+						 
+or visit my website 🌐 [repz.work](https://www.repz.work)
 
 </p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-<p>
-  <a href="https://github.com/repzlopez">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=repzlopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/repzlopez">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=repzlopez&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=repzlopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=repzlopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ---
 
 Credits: [Repz Lopez](https://github.com/repzlopez)
 
 Last Edited on: 10/17/2024
-
-<!--
-**repzlopez/repzlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
