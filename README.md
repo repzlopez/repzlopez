@@ -38,12 +38,7 @@
 <a href="https://facebook.com/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;
 						 
 or visit my website 🌐 [repz.work](https://www.repz.work)
-
 </p>
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=repzlopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=repzlopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ---
 
