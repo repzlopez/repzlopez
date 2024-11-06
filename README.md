@@ -34,8 +34,8 @@
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35"> Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://facebook.com/repzlopez"><img src="https://img.shields.io/badge/-@repzlopez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/repzlopez" target="_blank"><img src="https://img.shields.io/badge/-@repzlopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://facebook.com/repzlopez" target="_blank"><img src="https://img.shields.io/badge/-@repzlopez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>&nbsp;
 						 
 or visit my website 🌐 [repz.work](https://www.repz.work)
 </p>
